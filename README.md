@@ -10,7 +10,7 @@
 
 ## Description
 
-This is my hub space for all my work and current contact information for all and any recuiters wanting to get a gist on what projects ive done and what things i can accomplish in the future
+This is my hub space for all my work and current contact information for all and any recuiters wanting to get a gist on what projects ive done and what things I can accomplish in the future. I went for a more lighter look as I think its aesthetically pleasing compared to a darker colored contrast. I also really love cherry blossoms, they are one of the most beautiful things in the world to me.
 
 ## Portfolio Designs
 My designs for my portfolio picture, 
@@ -28,7 +28,7 @@ My designs for my portfolio picture,
 }
  ```
 
-for my contact portion i chose the color pink and had my icons in the ul section flew in a row so that it would look cleaner
+for my contact portion I chose the color pink and had my icons in the ul section flew in a row so that it would look cleaner
  ```css
  .Contact{
     margin-bottom: 10px;
@@ -53,6 +53,7 @@ for my contact portion i chose the color pink and had my icons in the ul section
 
 [GitHub](https://github.com/AcquahLopid)
 [LinkedIn](https://www.linkedin.com/in/emanuel-molina-65b84426b/)
+[GitLab](https://ucb.bootcampcontent.com/emanuelmolina2k-BAsayK)
 
 ```
 
