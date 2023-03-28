@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: white;
+    background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+    background-size: cover;    
+    height: 100vh;
 }
 
 .header {
@@ -35,4 +37,17 @@ body {
 }
 .header a{
     color: #DA9100;
+}
+.myself {
+    height: 800px;
+    width: 50%;
+    margin-top: 43px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: solid;
+    border-color:#DA9100;
+    border-width: 20px;
+
 }
