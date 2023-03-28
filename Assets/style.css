@@ -52,10 +52,10 @@ body {
     transform: translate(-50%, -50%);
     border-radius: 50%;
 }
-.links {
+.links  {
     width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 225px;
 }
 .float-left {
     float: left;
